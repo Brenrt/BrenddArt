@@ -1,0 +1,37 @@
+
+   /* Estilos generales */
+body {
+    font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+background-color: #F5EBF1;
+}
+
+nav {
+    background-color: #510441;
+    color: #fff;
+    border-color: #523546 ;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #EDD3F1;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+/* Cambiar color de enlace al pasar el mouse */
+a:hover {
+    color: #ff6600;
+}
+
